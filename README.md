@@ -1,3 +1,5 @@
+This project was created as a starter for the [React Page Transition Tutorial](https://youtu.be/IgI_4o7kT0w) - Grab the code and follow along - lets code together - it will be fun ;-)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
